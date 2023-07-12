@@ -4,5 +4,5 @@
 
 
 <h2>Connect with me:</h2>
-Linkedin: https://www.linkedin.com/in/jwiczek/
+Linkedin: https://www.linkedin.com/in/jwiczek/ <br>
 youTube: https://youtu.be/aIcj__dxjng
