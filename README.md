@@ -5,4 +5,7 @@
 
 <h2>Connect with me:</h2>
 Linkedin: https://www.linkedin.com/in/jwiczek/ <br>
-youTube: https://youtu.be/aIcj__dxjng
+YouTube videos: <br>
+  Setting up osTicket: https://youtu.be/KlNeeSVJdwg <br>
+  Using osTicket: https://youtu.be/6H5mbPPfLBc <br>
+  Installing and Using Active Directory: https://youtu.be/rJjzyCpTQW0
