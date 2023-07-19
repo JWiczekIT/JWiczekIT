@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ITunes_logo.svg/1200px-ITunes_logo.svg.png" alt="iTunes Logo" width:"120px" height:"120px"/>
+<img src="https://macstores.vn/tin-tuc/wp-content/uploads/2021/12/20211212_61b624ba2ca1e.jpg" />
 </p>
 
 <h1>Creating a Desktop Link to Auto-Import Music Into iTunes</h1>
