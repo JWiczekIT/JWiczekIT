@@ -40,7 +40,7 @@ Step 1: Install iTunes if you have not done so already. This can be done either 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Mz5UcRC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 2: Create a folder on the desktop and call it "Music to be Imported"
