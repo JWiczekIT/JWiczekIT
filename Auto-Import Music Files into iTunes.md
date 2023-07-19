@@ -32,7 +32,7 @@ This walkthrough details how to create a batch file to automate the import of au
 <h2>Detailed Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/XQQfqkj" height="80%" width="80%" alt="Installing iTunes"/>
+<img src="https://i.imgur.com/a/XQQfqkj" height="80%" width="80%" alt="Installing iTunes"/>
 </p>
 <p>
 Step 1: Install iTunes if you have not done so already. This can be done either through the Windows store or by navigating directly to the iTunes website.
