@@ -61,7 +61,7 @@ Step 3: Create a batch file with a command to move files from the folder on the 
 Example:<br>
   @echo off <br>
   move C:\Users\\[username]\\Desktop\\"Music to be Imported"\\\*.\* C:\Users\\[username]\Music\iTunes\"iTunes 
-  Media"\"Automatically Add to iTunes" <br><br>
+  Media"\\"Automatically Add to iTunes" <br><br>
 
   Save the notepad file onto the desktop and save it as a .bat file by typing .bat at the end of your filename.
 </p>
