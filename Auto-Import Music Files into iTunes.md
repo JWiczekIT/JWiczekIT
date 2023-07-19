@@ -53,15 +53,15 @@ Step 2: Create a folder on the desktop and call it "Music to be Imported"
 <p>
 Step 3: Create a batch file with a command to move files from the folder on the desktop to the auto import folder in the iTunes directory. To do so, open a notepad file. Type in the following below:
   
-  @echo off
-  move [source folder] [destination folder]
+  @echo off <br>
+  move [source folder] [destination folder] <br>
   
-  Fill in the brackets with the file path for the source folder that you created in step 2, and the destination file path for the auto-import folder in the iTunes directory. Usually it is located in C:\Users\[username]\Music\iTunes\iTunes Media\Automatically Add to iTunes. When typing in the file path for the source folder, make sure to add \*.* at the end, which tells the command to execute for every file in the folder.
+  Fill in the brackets with the file path for the source folder that you created in step 2, and the destination file path for the auto-import folder in the iTunes directory. Usually it is located in C:\Users\[username]\Music\iTunes\iTunes Media\Automatically Add to iTunes. When typing in the file path for the source folder, make sure to add \*.* at the end, which tells the command to execute for every file in the folder. <br>
 
 Example:
-  @echo off
+  @echo off <br>
   move C:\Users\[username]\Desktop\"Music to be Imported"\*.* C:\Users\[username]\Music\iTunes\"iTunes 
-  Media"\"Automatically Add to iTunes"
+  Media"\"Automatically Add to iTunes" <br><br>
 
   Save the notepad file onto the desktop and save it as a .bat file by typing .bat at the end of your filename.
 </p>
