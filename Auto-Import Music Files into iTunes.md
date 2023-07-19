@@ -6,10 +6,6 @@
 This walkthrough details how to create a batch file to automate the import of audio files into iTunes library.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Install and Use Active Directory]
-
 <h2>Environments and Technologies Used</h2>
 
 - Windows 10
