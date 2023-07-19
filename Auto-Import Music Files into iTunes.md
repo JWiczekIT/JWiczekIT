@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ITunes_logo.svg/1200px-ITunes_logo.svg.png" alt="iTunes Logo" max-width: 50% max-height: 50% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ITunes_logo.svg/1200px-ITunes_logo.svg.png" alt="iTunes Logo" max-width: 5% max-height: 5% />
 </p>
 
 <h1>Creating a Desktop Link to Auto-Import Music Into iTunes</h1>
