@@ -19,15 +19,15 @@ This walkthrough details how to create a batch file to automate the import of au
 <h2>Overview</h2>
 
 - Step 1
-  -Install iTunes (If not done so already)
+  Install iTunes (If not done so already)
 - Step 2
-  -Create a folder on Desktop to copy music to be imported
+  Create a folder on Desktop to copy music to be imported
 - Step 3
-  -Create batch file with move command
+  Create batch file with move command
 - Step 4
-  -Copy music files into folder on Desktop
+  Copy music files into folder on Desktop
 - Step 5
-  -Click on batch file to import
+  Click on batch file to import
   
 <h2>Deployment and Configuration Steps</h2>
 
