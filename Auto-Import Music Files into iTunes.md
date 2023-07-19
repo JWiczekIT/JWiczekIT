@@ -48,7 +48,7 @@ Step 2: Create a folder on the desktop and call it "Music to be Imported"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U5UnblC.png?1" height="80%" width="80%" alt="Batch file"/>
 </p>
 <p>
 Step 3: Create a batch file with a command to move files from the folder on the desktop to the auto import folder in the iTunes directory. To do so, open a notepad file. Type in the following below:
