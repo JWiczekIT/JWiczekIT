@@ -68,7 +68,7 @@ Example:<br>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xSkKy3I.png?1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 4: Copy music files into the import folder that you created on your desktop. NOTE: These files will be imported into iTunes and will be removed from this folder when command is executed. Best practice is to copy the files into this folder, instead of moving.
@@ -76,7 +76,7 @@ Step 4: Copy music files into the import folder that you created on your desktop
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BYL7bQp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 5: Click on bat file on the desktop and then open iTunes to find your new songs imported into your library.
