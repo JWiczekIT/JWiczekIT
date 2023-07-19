@@ -16,13 +16,19 @@ This walkthrough details how to create a batch file to automate the import of au
 
 - Windows 10
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Overview</h2>
 
 - Step 1
+  -Install iTunes (If not done so already)
 - Step 2
+  -Create a folder on Desktop to copy music to be imported
 - Step 3
+  -Create batch file with move command
 - Step 4
-
+  -Copy music files into folder on Desktop
+- Step 5
+  -Click on batch file to import
+  
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
