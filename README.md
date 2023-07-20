@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
 <b>GitHub Articles</b><br>
-  Auto-Import Music Files into iTunes: https://github.com/JWiczekIT/JWiczekIT/blob/main/Auto-Import%20Music%20Files%20into%20iTunes.md  <br>
+  Auto-Import Music Files into iTunes: https://github.com/JWiczekIT/JWiczekIT/blob/main/Auto-Import%20Music%20Files%20into%20iTunes.md  <br><br>
 <b>YouTube Videos:</b> <br>
   Setting up osTicket: https://youtu.be/KlNeeSVJdwg <br>
   Using osTicket: https://youtu.be/6H5mbPPfLBc <br>
