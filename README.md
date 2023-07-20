@@ -1,7 +1,7 @@
 <h1>Hi there! My name is Jeremy! I am an <a href="https://www.linkedin.com/in/jwiczek/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
-<b>GitHub Articles</b>
+<b>GitHub Articles</b><br>
   Auto-Import Music Files into iTunes: 
 <b>YouTube videos:</b> <br>
   Setting up osTicket: https://youtu.be/KlNeeSVJdwg <br>
